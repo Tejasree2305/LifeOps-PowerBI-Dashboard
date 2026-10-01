@@ -1,12 +1,5 @@
 # 📊 LifeOps – Personal Productivity & Lifestyle Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Data%20Generation-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?logo=mysql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Analytics-5B2AAE)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoftexcel&logoColor=white)
-
 ## 📌 Project Overview
 
 **LifeOps** is an interactive **Personal Productivity & Lifestyle Analytics Dashboard** developed using **Microsoft Power BI**.
